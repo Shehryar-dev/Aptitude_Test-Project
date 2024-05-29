@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Aptitude_Test.props" />
+</Project>

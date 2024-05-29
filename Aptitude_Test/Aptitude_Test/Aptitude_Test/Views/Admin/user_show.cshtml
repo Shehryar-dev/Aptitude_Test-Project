@@ -1,0 +1,106 @@
+﻿@{
+
+    Layout = "_LayoutAdmin1";
+}
+@model Aptitude_Test.Models.IndexRecord;
+
+
+<div class="content-wrapper">
+    <div class="page-header">
+        <h3 class="page-title"> User  </h3>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="#">User</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Show Users</li>
+            </ol>
+        </nav>
+    </div>
+    <div class="row">
+        <div class="col-lg-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title"> User Records</h4>
+
+                    <table class="table table-striped text-center " >
+                        <thead>
+                            <tr>
+                                <th>
+                                    User ID
+                                </th>
+                                <th>
+                                    User name
+                                </th>
+                                <th>
+                                    User Email
+                                </th>
+                                <th>
+                                    User Password
+                                </th>
+                                <th>
+                                    User Image
+                                </th>
+                                <th>
+                                    User Role
+                                </th>
+                                <th>
+                                    User Update
+                                </th>
+                                <th>
+                                    User Delete
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.user)
+                            {
+                                <tr>
+
+                                    <td>
+                                        @item.UserId
+                                    </td>
+                                    <td>
+                                        @item.UserName
+                                    </td>
+                                    <td>
+                                        @item.UserEmail
+                                    </td>
+                                    <td>
+                                        @item.UserPassword
+                                    </td>
+                                    <td>
+                                        @item.UserImage
+                                    </td> 
+                                     <td>
+                                        @item.UserRole.RoleName
+                                    </td> 
+                                    <td>
+                                        <a asp-route-id="@item.UserId" asp-controller="Admin" asp-action="user_edit"
+                                           class="btn btn-success">
+                                            Update
+                                        </a>
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-danger" asp-route-id="@item.UserId" asp-action="user_del" asp-controller="Admin" class="btn btn-danger">
+                                            Delete
+                                        </a>
+                                    </td>
+
+                                </tr>
+                            }
+
+
+                        </tbody>
+
+                     
+
+
+
+                       
+                    </table>
+                </div>
+            </div>
+
+        </div>
+    
+    </div>
+</div>

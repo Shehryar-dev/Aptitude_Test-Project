@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - Oil & Gas Talent Hub</title>
+    <link href="/images/undraw_work_time_lhoj.svg" rel="icon" />
+
+    <!-- FontAwesome-cdn include -->
+    <link rel="stylesheet" href="~/quize/assets/cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <!-- Google-fonts-include -->
+    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;700&amp;family=Oswald:wght@700&amp;display=swap" rel="stylesheet">
+    <!-- Bootstrap-css include -->
+    <link rel="stylesheet" href="~/quize/assets/css/bootstrap.min.css">
+    <!-- Main-StyleSheet include -->
+    <link rel="stylesheet" href="~/quize/assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" asp-append-version="true">
+
+</head>
+<body>
+    
+
+        <partial name="_Notification" />
+        @RenderBody()
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+
+    <script src="~/quize/assets/js/bootstrap.min.html"></script>
+    <script>
+        var duration = 15 * 1000;
+        var animationEnd = Date.now() + duration;
+        var defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 0 };
+
+        function randomInRange(min, max) {
+            return Math.random() * (max - min) + min;
+        }
+
+        var interval = setInterval(function () {
+            var timeLeft = animationEnd - Date.now();
+
+            if (timeLeft <= 0) {
+                return clearInterval(interval);
+            }
+
+            var particleCount = 50 * (timeLeft / duration);
+            // since particles fall down, start a bit higher than random
+            confetti({ ...defaults, particleCount, origin: { x: randomInRange(0.1, 0.3), y: Math.random() - 0.2 } });
+            confetti({ ...defaults, particleCount, origin: { x: randomInRange(0.7, 0.9), y: Math.random() - 0.2 } });
+        }, 250);
+
+
+        setTimeout(function () {
+            window.location.href = "https://localhost:7008/Home/"; 
+        }, 30000);
+    </script>
+</body>
+
+</html>

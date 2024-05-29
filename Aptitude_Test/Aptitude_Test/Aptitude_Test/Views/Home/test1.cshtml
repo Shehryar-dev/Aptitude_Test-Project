@@ -1,0 +1,121 @@
+﻿@{
+    Layout = "_LayoutQuiz";
+    ViewData["Title"] = "General Knowledge Quiz";
+
+}
+@model List<Gktest>
+
+
+
+
+<div class="wrapper position-relative">
+    <div class="container-fluid px-5">
+        <div class="step_bar_content ps-5 pt-5">
+            <h4 class="text-white text-uppercase d-inline-block">General Knowledge Quiz </h4>
+        </div>
+        
+        <div class="progress_bar steps_bar mt-3 ps-5 d-inline-block">
+            <div class="step rounded-pill d-inline-block text-center position-relative active">1</div>
+            <div class="step rounded-pill d-inline-block text-center position-relative">2</div>
+            <div class="step rounded-pill d-inline-block text-center position-relative">3</div>
+            <div class="step rounded-pill d-inline-block text-center position-relative">4</div>
+
+            <div class="step rounded-pill d-inline-block text-center position-relative">5</div>
+        </div>
+
+        <form class="multisteps_form position-relative" id="wizard" asp-action="complete_test1" asp-controller="home" method="POST">
+            @{
+                int questionCounter = 0;
+            }
+
+            @foreach (var item in Model)
+            {
+                if (questionCounter < 5)
+                {
+                    <div class="multisteps_form_panel @(questionCounter == 0 ? "active" : "")" data-animation="slideVert">
+                        <div class="form_content">
+                            <div class="row">
+                                <div class="col-lg-4">
+                                    <div class="form_title">
+                                        <h1 class="text-white">@item.Question</h1>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 text-center">
+                                    <div class="form_img">
+                                        <img src="~/quize/assets/images/bg_@(item.Id % 4 + 1).png" alt="image_not_found">
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 text-end">
+                                    <div class="form_items radio-list">
+                                        <ul class="text-uppercase list-unstyled">
+                                            <input type="hidden" name="answers[@questionCounter].Id" value="@item.Id" />
+                                            <li>
+                                                <label for="option_A_@(item.Id)" class="step_1 rounded-pill">
+                                                    <span class="label-pointer rounded-pill text-center">A</span>
+                                                    <input type="radio" id="option_A_@(item.Id)" name="answers[@questionCounter].SelectedAnswer" value="a">
+                                                    <span class="label-content d-inline-block text-center rounded-pill">@item.OptionA</span>
+                                                </label>
+                                            </li>
+                                            <li>
+                                                <label for="option_B_@(item.Id)" class="step_1 rounded-pill">
+                                                    <span class="label-pointer rounded-pill text-center">B</span>
+                                                    <input type="radio" id="option_B_@(item.Id)" name="answers[@questionCounter].SelectedAnswer" value="b">
+                                                    <span class="label-content d-inline-block text-center rounded-pill">@item.OptionB</span>
+                                                </label>
+                                            </li>
+                                            <li>
+                                                <label for="option_C_@(item.Id)" class="step_1 rounded-pill">
+                                                    <span class="label-pointer rounded-pill text-center">C</span>
+                                                    <input type="radio" id="option_C_@(item.Id)" name="answers[@questionCounter].SelectedAnswer" value="c">
+                                                    <span class="label-content d-inline-block text-center rounded-pill">@item.OptionC</span>
+                                                </label>
+                                            </li>
+                                            <li>
+                                                <label for="option_D_@(item.Id)" class="step_1">
+                                                    <span class="label-pointer rounded-pill text-center">D</span>
+                                                    <input type="radio" id="option_D_@(item.Id)" name="answers[@questionCounter].SelectedAnswer" value="d">
+                                                    <span class="label-content d-inline-block text-center rounded-pill">@item.OptionD</span>
+                                                </label>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!---------- Form Button ---------->
+                        <div class="form_btn py-5 d-flex justify-content-center align-items-center">
+                            @if (questionCounter == 0)
+                            {
+                                <button type="button" class="js-btn-next f_btn rounded-pill active text-uppercase"> Next Question <span><i class="fas fa-arrow-right ps-1"></i></span></button>
+                            }
+                            else if (questionCounter == 4)
+                            {
+                                <button type="button" class="js-btn-prev f_btn rounded-pill disable text-uppercase"><span><i class="fas fa-arrow-left pe-1"></i></span> Previous Question</button>
+                                <button type="submit" class="f_btn rounded-pill active text-uppercase"> Submit</button>
+                            }
+                            else
+                            {
+                                <button type="button" class="js-btn-prev f_btn rounded-pill disable text-uppercase"><span><i class="fas fa-arrow-left pe-1"></i></span> Previous Question</button>
+                                <button type="button" class="js-btn-next f_btn rounded-pill active text-uppercase"> Next Question <span><i class="fas fa-arrow-right ps-1"></i></span></button>
+                            }
+                        </div>
+                    </div>
+
+                    questionCounter++;
+                }
+                else
+                {
+                    break;
+                }
+            }
+        </form>
+
+
+
+
+        
+       
+    </div>
+
+</div>
+

@@ -1,0 +1,257 @@
+﻿@{
+
+    Layout = "_LayoutAdmin1";
+}
+
+@* @model IEnumerable<Aptitude_Test.Models.FinalResult> *@
+   @model Aptitude_Test.Models.IndexRecord;
+
+<div class="content-wrapper">
+    <div class="page-header">
+        <h3 class="page-title">Test Record </h3>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="#">Results</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Data</li>
+            </ol>
+        </nav>
+    </div>
+    <div class="row">
+        <div class="col-lg-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title"> Test Result Record </h4>
+
+                    <table class="table table-striped text-center " >
+                        <thead>
+                            <tr>
+                                <th>
+                                     ID
+                                </th>
+                                <th>
+                                    Account Name
+                                </th>
+                                <th>
+                                    GK Marks
+                                </th>
+                                <th>
+                                    Math Marks
+                                </th>
+                                <th>
+                                    Computer Marks
+                                </th>
+                                <th>
+                                    Percentage
+                                </th>
+                                <th>
+                                    Status
+                                </th>
+
+                                
+                                <th>
+                                    test date
+                               </th>
+                                <th>User Hiring Status</th> <!-- Updated header name -->
+
+
+
+                                
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.finalresults)
+                            {
+                                
+                                    <tr>
+                                        <td>
+                                            @item.FId
+                                        </td>
+                                    <td>
+                                        @item.FUser.UserName
+                                    </td>
+                                       
+                                        <td>
+                                            @item.FTotalscoreGk
+                                        </td>
+                                        <td>
+                                            @item.FTotalscoreMaths
+                                        </td>
+                                        <td>
+                                            @item.FTotalscoreComputer
+                                        </td>
+                                        <td>
+                                            @item.FPercentage
+                                        </td>
+                                        <td>
+                                        @if (item.FPercentage >= 40)
+                                        {
+                                            <text>Eligible</text>
+                                        }
+                                        else
+                                        {
+                                            <text>Not Eligible</text>
+                                        }
+                                        </td>
+
+                                    @{
+                                        DateTime date = item.FTestdate ?? DateTime.MinValue; // Ensure date is not null
+                                        string formattedDate = date.ToString("dd MMM yyyy");
+                                    }
+                                    <td>
+                                        @formattedDate
+                                    </td>
+                                    <td >
+                                        @if (item.FPercentage >= 40)
+                                        {
+                                            
+                                            <form asp-action="Approach" method="post">
+                                                <input type="hidden" name="userId" value="@item.FJaId" />
+                                                <input type="hidden" name="userName" value="@item.FJa.JFullname" />
+                                                <input type="hidden" name="userEmail" value="@item.FJa.JEmail" /> 
+                                                <button type="submit" class="btn btn-success">Approach</button>
+                                            </form>
+                                        }
+                                        else
+                                        {
+                                            <a asp-route-id="@item.FId" asp-action="FrDel" asp-controller="Admin" class="btn btn-danger">
+                                                Remove Record
+                                            </a>
+                                        }
+                                    </td>
+
+
+                                   
+                                       
+                                    </tr>
+                                
+                            } 
+
+
+                        </tbody>
+
+                     
+
+
+
+                       
+                    </table>
+                </div>
+            </div>
+
+        </div>
+    
+    </div>
+
+    <div class="row">
+        <div class="col-lg-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title"> Test Result Information</h4>
+
+                    <table class="table table-striped text-center ">
+                        <thead>
+                            <tr>
+                                <th>
+                                    ID
+                                </th>
+                                <th>Participant Name</th>
+                                
+                                <th>Participant Email</th>
+
+                                <th>Participant Resume</th>
+
+
+                                <th>
+                                    User Test Marks
+                                </th>
+                                <th>
+                                     Total Marks
+                                </th>
+                                <th>
+                                    Total Mcq's
+                                </th>
+                               
+                                <th>
+                                    Percentage
+                                </th>
+                                <th>
+                                    Status
+                                </th>
+
+
+                              
+
+
+
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.finalresults)
+                            {
+
+                                <tr>
+                                    <td>
+                                        @item.FId
+                                    </td>
+                                    <td>
+                                        @item.FJa.JFullname
+                                    </td>
+                                    <td>
+                                        @item.FJa.JEmail
+                                    </td>
+                                    <td>
+                                        <a href="~/ContentImages/public_resume/@item.FJa.JResume" download="@item.FJa.JResume">Resume</a>
+                                    </td>
+
+                                    @{
+                                        int total = item.FTotalscoreGk + item.FTotalscoreMaths + item.FTotalscoreComputer;
+                                    }
+                                    <td>
+                                        @total
+                                    </td>
+                                    @{
+                                        int gk = (item.FTotalmarksGk ?? 0) * 6;
+                                        int maths = (item.FTotalmarksMaths ?? 0) * 6;
+                                        int comp = (item.FTotalmarksComputer ?? 0) * 8;
+                                        int totalmarks = gk + maths + comp;
+                                    }
+                                    <td>
+                                        @totalmarks
+                                    </td>
+                                    <td>
+                                        @{
+                                            var t = item.FTotalmarksGk + item.FTotalmarksMaths + item.FTotalmarksComputer;
+                                        }
+                                        @t
+                                    </td>
+
+
+                                    <td>
+                                        @($"{item.FPercentage:0.##}%")
+                                    </td>
+
+                                    <td>
+                                        @item.FUserstatus
+                                    </td>
+
+                                </tr>
+
+                            }
+
+
+                        </tbody>
+
+
+
+
+
+
+                    </table>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>

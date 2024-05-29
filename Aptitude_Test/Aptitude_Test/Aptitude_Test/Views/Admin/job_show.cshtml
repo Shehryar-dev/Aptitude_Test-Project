@@ -1,0 +1,102 @@
+﻿@{
+
+    Layout = "_LayoutAdmin1";
+}
+
+@model IEnumerable<Aptitude_Test.Models.Job>
+
+<div class="content-wrapper">
+    <div class="page-header">
+        <h3 class="page-title"> JOB Records </h3>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="#">JOB</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Show JOB</li>
+            </ol>
+        </nav>
+    </div>
+    <div class="row">
+        <div class="col-lg-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title"> JOB Records</h4>
+
+                    <table class="table table-striped text-center " >
+                        <thead>
+                            <tr>
+                                <th>
+                                     ID
+                                </th>
+                                <th>
+                                    Job Title
+                                </th>
+                                <th>
+                                    Company Name
+                                </th>
+                                <th>
+                                    Job  Location
+                                </th>
+                                <th>
+                                    Employment Type
+                                </th>
+                                
+                                <th>
+                                     Update
+                                </th>
+                                <th>
+                                     Delete
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+
+                                    <td>
+                                        @item.JobId
+                                    </td>
+                                    <td>
+                                        @item.JobTitle
+                                    </td>
+                                    <td>
+                                        @item.CompanyName
+                                    </td>
+                                    <td>
+                                        @item.JobLocation
+                                    </td>
+                                    <td>
+                                        @item.EmploymentType
+                                    </td> 
+                                   
+                                    <td>
+                                        <a asp-route-id="@item.JobId" asp-controller="Admin" asp-action="job_edit"
+                                           class="btn btn-success">
+                                            Update
+                                        </a>
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-danger" asp-route-id="@item.JobId" asp-action="job_del" asp-controller="Admin" class="btn btn-danger">
+                                            Delete
+                                        </a>
+                                    </td>
+
+                                </tr>
+                            }
+
+
+                        </tbody>
+
+                     
+
+
+
+                       
+                    </table>
+                </div>
+            </div>
+
+        </div>
+    
+    </div>
+</div>

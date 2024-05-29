@@ -1,0 +1,70 @@
+﻿@{
+
+    Layout = "_LayoutAdmin1";
+}
+@model Aptitude_Test.Models.ComputerTest;
+
+<div class="content-wrapper">
+    <div class="page-header">
+        <h3 class="page-title"> Update  Computer Test </h3>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="#">Test</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Edit Test</li>
+            </ol>
+        </nav>
+    </div>
+    <div class="row">
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+                    <h4 class="card-title"> Computer Test</h4>
+
+                    <form class="forms-sample" asp-action="testC_editC" asp-controller="Admin">
+                <input type="hidden" asp-for="Id"/>
+                        <div class="form-group">
+                            <label for="exampleInputName1">Add Question</label>
+                    <input type="text" asp-for="Question" class="form-control" id="exampleInputName1" placeholder="Test Question">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputName1">Optian A</label>
+                            <input type="text" asp-for="OptionA" class="form-control" id="exampleInputName1" placeholder="Option A">
+                </div>
+                <div class="form-group">
+                            <label for="exampleInputName1">Optian B</label>
+                            <input type="text" asp-for="OptionB" class="form-control" id="exampleInputName1" placeholder="Optian B">
+                </div>
+
+                        <div class="form-group">
+                            <label for="exampleInputName1">Optian C</label>
+                            <input type="text" asp-for="OptionC" class="form-control" id="exampleInputName1" placeholder="Optian C">
+                        </div>
+
+
+                        <div class="form-group">
+                            <label for="exampleInputName1">Optian D</label>
+                            <input type="text" asp-for="OptionD" class="form-control" id="exampleInputName1" placeholder="Optian D">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="exampleSelectGender">Correct Answer</label>
+                            <select class="form-control" id="exampleSelectGender" asp-for="CorrectAnswer">
+                                <option value="a">A</option>
+                                <option value="b">B</option>
+                                <option value="c">C</option>
+                                <option value="d">D</option>
+
+                            </select>
+                        </div>
+
+                        <button type="submit" class="btn btn-gradient-primary mr-2">Submit</button>
+            </form> 
+        </div>
+    </div>
+</div>
+
+
+
+    </div>
+</div>

@@ -1,0 +1,56 @@
+﻿@{
+
+    Layout = "_LayoutAdmin1";
+}
+@model Aptitude_Test.Models.Candidate;
+
+<div class="content-wrapper">
+    <div class="page-header">
+        <h3 class="page-title"> Add Candidates </h3>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="#">Candidates</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Add Candidates</li>
+            </ol>
+        </nav>
+    </div>
+    <div class="row">
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+                    <h4 class="card-title">Candidates</h4>
+          
+            <form class="forms-sample" asp-action="cant_add2" method="post" >
+                <div class="form-group">
+                            <label for="exampleInputName1"> Candidates Name</label>
+                    <input type="text" asp-for="FullName" class="form-control" id="exampleInputName1" placeholder="Full Name">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputName1">Location</label>
+                    <input type="text" asp-for="Location" class="form-control" id="exampleInputName1" placeholder="Location">
+                </div>
+                        <div class="form-group">
+                            <label for="exampleTextarea1">Description</label>
+                            <textarea class="form-control" asp-for="CantDescription" id="exampleTextarea1" rows="4"></textarea>
+                        </div>
+                <div class="form-group">
+                    <label>Image upload</label>
+                    <input type="file" name="img[]" class="file-upload-default">
+                    <div class="input-group col-xs-12">
+                        <input type="file" class="form-control file-upload-info" asp-for="ImageUrl"  placeholder="Upload Image">
+                        <span class="input-group-append">
+                            <button class="file-upload-browse btn btn-gradient-primary" type="button">Upload</button>
+                        </span>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-gradient-primary mr-2">Submit</button>
+            </form> 
+        </div>
+    </div>
+</div>
+
+
+
+    </div>
+</div>

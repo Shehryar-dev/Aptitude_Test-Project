@@ -1,0 +1,219 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Aptitude_Test
+build_property.RootNamespace = Aptitude_Test
+build_property.ProjectDir = I:\SK ,,,,\3RD SEMESTER\3rd Semester Eproject\Project Work File\NewPRg\Aptitude_Test\Aptitude_Test\Aptitude_Test\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = I:\SK ,,,,\3RD SEMESTER\3rd Semester Eproject\Project Work File\NewPRg\Aptitude_Test\Aptitude_Test\Aptitude_Test
+build_property._RazorSourceGeneratorDebug = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/cant_add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cY2FudF9hZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/cant_edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cY2FudF9lZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/cant_show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cY2FudF9zaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/contact_show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cY29udGFjdF9zaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/job_add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cam9iX2FkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/job_app.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cam9iX2FwcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/job_edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cam9iX2VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/job_show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cam9iX3Nob3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/results.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5ccmVzdWx0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/role_add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5ccm9sZV9hZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/role_edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5ccm9sZV9lZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/role_show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5ccm9sZV9zaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/testA_add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdGVzdEFfYWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/testA_edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdGVzdEFfZWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/testA_show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdGVzdEFfc2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/testB_add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdGVzdEJfYWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/testB_edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdGVzdEJfZWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/testB_show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdGVzdEJfc2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/testC_add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdGVzdENfYWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/testC_edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdGVzdENfZWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/testC_show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdGVzdENfc2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/user_add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXNlcl9hZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/user_edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXNlcl9lZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Admin/user_show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXNlcl9zaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Home/Candidate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYW5kaWRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Home/JobPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKb2JQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Home/job_apply.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxqb2JfYXBwbHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Home/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Home/register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Home/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Home/test1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0ZXN0MS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Home/test2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0ZXN0Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Home/test3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0ZXN0My5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Shared/_AdminPanelLogPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pblBhbmVsTG9nUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Shared/_AdminPanelprofileImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pblBhbmVscHJvZmlsZUltYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Shared/_LogoutPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dvdXRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mqn98rynbl
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Shared/_LayoutAdmin1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3jgu0tn7ks
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Shared/_LayoutAdminRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pblJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-sa8bksuuof
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Shared/_LayoutQuiz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRRdWl6LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-72q4z6pnjm
+
+[I:/SK \,\,\,\,/3RD SEMESTER/3rd Semester Eproject/Project Work File/NewPRg/Aptitude_Test/Aptitude_Test/Aptitude_Test/Views/Shared/_LayoutQuiz1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRRdWl6MS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-65bt9hwwcd

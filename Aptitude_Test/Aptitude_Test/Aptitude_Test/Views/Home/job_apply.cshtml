@@ -1,0 +1,121 @@
+﻿@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Job Apply";
+}
+
+@model Aptitude_Test.Models.JobApplication;
+
+<div class="hero-wrap hero-wrap-2" style="background-image: url('/images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text align-items-end justify-content-start">
+            <div class="col-md-8 ftco-animate text-center text-md-left mb-5">
+                <p class="breadcrumbs mb-0"><span class="mr-3"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Contact</span></p>
+                <h1 class="mb-3 bread">Job Apply</h1>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="ftco-section contact-section bg-light">
+    <div class="container">
+        <div class="row d-flex mb-5 contact-info">
+            <div class="col-md-12 mb-4">
+                <h2 class="h3">Join PetroLink Global: Shape the Future of Energy Resources!</h2>
+            </div>
+            <div class="col-md-12 mb-4">
+                <p class="mb-2">
+                    Are you ready to take the next step in your career journey? Look no further! Our dynamic team at PetroLink Global is seeking talented individuals like you to join us on an exciting adventure. Whether you're a seasoned professional or just starting out, we offer a supportive environment where your skills and ambitions can thrive.
+                </p>
+                <p class="mb-2">
+                    At PetroLink Global, we're dedicated to fostering a culture of growth, innovation, and collaboration. As part of our team, you'll have the opportunity to work on cutting-edge projects, contribute to meaningful initiatives, and make a real difference in the lives of our customers.
+                </p>
+                <p class="mb-2">
+                    Before your job interview, we'll have a preliminary test to ensure we're the right fit for each other. Join us in shaping the future of Energy Resources and unlocking new possibilities. Apply today and embark on a rewarding career path with endless opportunities for development and success.
+                </p>
+
+            </div>
+
+        </div>
+
+        <style>
+            .custom-file-input::-webkit-file-upload-button {
+                visibility: hidden;
+                width: 0;
+            }
+
+            .custom-file-input::before {
+                content: 'Select File';
+                display: inline-block;
+             
+                background: #007bff;
+                color: white;
+                border-radius: 5px;
+                padding: 8px 12px;
+                outline: none;
+                white-space: nowrap;
+                cursor: pointer;
+            }
+
+            .custom-file-input:hover::before {
+                background: #0056b3;
+            }
+
+            .custom-file-input:active::before {
+                background: #0056b3;
+            }
+
+            .custom-file-input::after {
+                content: 'No file chosen';
+            }
+
+            .custom-file-input:focus + .custom-file-label::after {
+                content: 'Choose file';
+            }
+
+            .custom-file-input:disabled + .custom-file-label::before {
+                background: #e9ecef;
+                cursor: not-allowed;
+
+            }
+
+
+        </style>
+        <div class="row block-9">
+            <div class="col-md-10 order-md-last d-flex">
+                <form class="bg-white p-5 contact-form" asp-action="job_apply_record" asp-controller="Home" method="post">
+                    <div class="form-group">
+                        <input type="text" asp-for="JFullname" class="form-control" placeholder="Your Full Name">
+                    </div>
+                    <div class="form-group">
+                        <input type="email" asp-for="JEmail" class="form-control" placeholder="Your Email Address">
+                    </div>
+                    <div class="form-group">
+                        <input type="number" asp-for="JPhone" class="form-control" placeholder="Your Phone Number">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" asp-for="UserAddress" class="form-control" placeholder="Your Address">
+                    </div>
+                    <div class="form-group">
+                        <div class="custom-file" style="   border:1px solid #ced4da;border-radius:5px;">
+                            <input type="file" asp-for="JResume" class="custom-file-input" id="resumeFile" aria-describedby="resumeFile">
+                            <label class="custom-file-label" for="resumeFile">Choose file</label>
+                        </div>
+                    </div>
+                    <input type="hidden" asp-for="JUserId" value="@ViewBag.UserId" />
+
+                    <div class="form-group">
+                        <label for="userName">Logged in as: @ViewBag.UserName</label>
+                    </div>
+
+                    <div class="form-group">
+                        <textarea cols="30" rows="7" asp-for="JMessage"  class="form-control" placeholder="Message"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary py-3 px-5">Start Test</button>
+                    </div>
+                </form>
+            </div>
+           
+        </div>
+    </div>
+</section>

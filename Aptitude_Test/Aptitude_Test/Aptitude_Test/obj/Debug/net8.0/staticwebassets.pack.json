@@ -1,0 +1,1041 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Aptitude_Test.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Aptitude_Test.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face179edf6972-e214-4b28-a4ba-e27e380cc61b.jpeg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face179edf6972-e214-4b28-a4ba-e27e380cc61b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\bg_1f05cbb77-8c2d-4f40-a36d-92bc24275de6.jpeg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\bg_1f05cbb77-8c2d-4f40-a36d-92bc24275de6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\company-1.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\company-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\company-2.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\company-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\company-3.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\company-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\image_1.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\image_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\image_2.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\image_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\image_3.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\image_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\image_37e9eb718-2cb9-4633-bce0-ac61dd7daaab.jpeg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\image_37e9eb718-2cb9-4633-bce0-ac61dd7daaab.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\image_3e8f0b845-366d-4789-962f-ae3cbaff7ee6.jpeg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\image_3e8f0b845-366d-4789-962f-ae3cbaff7ee6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\image_4.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\image_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\image_5.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\image_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\image_5bf626374-809d-4350-840d-e5e228f7eac1.jpeg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\image_5bf626374-809d-4350-840d-e5e228f7eac1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\image_6.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\image_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\image_7.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\image_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\image_8.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\image_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\person_376844b0a-a47f-4037-815c-0722de510f32.jpeg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\person_376844b0a-a47f-4037-815c-0722de510f32.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\person_5.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\person_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\person_558df3f20-845b-4b23-b26b-ae5744420513.jpeg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\person_558df3f20-845b-4b23-b26b-ae5744420513.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\person_5965deaf6-d0bb-4441-8c9b-ad08153ffdd8.jpeg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\person_5965deaf6-d0bb-4441-8c9b-ad08153ffdd8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\person_6.jpg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\person_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\images\\undraw_work_time_lhoj.svg",
+      "PackagePath": "staticwebassets\\ContentImages\\images\\undraw_work_time_lhoj.svg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\ContentImages\\public_resume\\updated-resume .pdf",
+      "PackagePath": "staticwebassets\\ContentImages\\public_resume\\updated-resume .pdf"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\README.md",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\css\\materialdesignicons.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\css\\materialdesignicons.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\css\\materialdesignicons.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\css\\materialdesignicons.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\license.md",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\license.md"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\package.json",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\preview.html",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\preview.html"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\scss\\_extras.scss",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\scss\\_extras.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\iconfonts\\mdi\\scss\\materialdesignicons.scss",
+      "PackagePath": "staticwebassets\\assets\\vendors\\iconfonts\\mdi\\scss\\materialdesignicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\js\\vendor.bundle.addons.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\js\\vendor.bundle.addons.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\flaticon\\font\\Flaticon.eot@",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.eot@"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\icomoon\\icomoon.eot@6tt51o",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.eot@6tt51o"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\icomoon\\icomoon.svg@6tt51o.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.svg@6tt51o.svg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\icomoon\\icomoon.ttf@6tt51o",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.ttf@6tt51o"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\icomoon\\icomoon.woff@6tt51o",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.woff@6tt51o"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.eot@v=4.0.0-19",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.eot@v=4.0.0-19"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.svg@v=4.0.0-19",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.svg@v=4.0.0-19"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.ttf@v=4.0.0-19",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.ttf@v=4.0.0-19"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.woff2@v=4.0.0-19",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.woff2@v=4.0.0-19"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.woff@v=4.0.0-19",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.woff@v=4.0.0-19"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\open-iconic\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\open-iconic\\open-iconic.eot@",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.eot@"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\open-iconic\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\open-iconic\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\open-iconic\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\fonts\\open-iconic\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\company-1.jpg",
+      "PackagePath": "staticwebassets\\images\\company-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\company-2.jpg",
+      "PackagePath": "staticwebassets\\images\\company-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\company-3.jpg",
+      "PackagePath": "staticwebassets\\images\\company-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\image_1.jpg",
+      "PackagePath": "staticwebassets\\images\\image_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\image_2.jpg",
+      "PackagePath": "staticwebassets\\images\\image_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\image_3.jpg",
+      "PackagePath": "staticwebassets\\images\\image_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\image_4.jpg",
+      "PackagePath": "staticwebassets\\images\\image_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\image_5.jpg",
+      "PackagePath": "staticwebassets\\images\\image_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\image_6.jpg",
+      "PackagePath": "staticwebassets\\images\\image_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\image_7.jpg",
+      "PackagePath": "staticwebassets\\images\\image_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\image_8.jpg",
+      "PackagePath": "staticwebassets\\images\\image_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\person_5.jpg",
+      "PackagePath": "staticwebassets\\images\\person_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\person_6.jpg",
+      "PackagePath": "staticwebassets\\images\\person_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\images\\undraw_work_time_lhoj.svg",
+      "PackagePath": "staticwebassets\\images\\undraw_work_time_lhoj.svg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\js\\google-map.js",
+      "PackagePath": "staticwebassets\\js\\google-map.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\js\\scrollax.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\quize\\assets\\cdnjs.cloudflare.com\\ajax\\libs\\font-awesome\\5.15.3\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\quize\\assets\\cdnjs.cloudflare.com\\ajax\\libs\\font-awesome\\5.15.3\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\quize\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\quize\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\quize\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\quize\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\quize\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\quize\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\quize\\assets\\images\\bg.png",
+      "PackagePath": "staticwebassets\\quize\\assets\\images\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\quize\\assets\\images\\bg_1.png",
+      "PackagePath": "staticwebassets\\quize\\assets\\images\\bg_1.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\quize\\assets\\images\\bg_2.png",
+      "PackagePath": "staticwebassets\\quize\\assets\\images\\bg_2.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\quize\\assets\\images\\bg_3.png",
+      "PackagePath": "staticwebassets\\quize\\assets\\images\\bg_3.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\quize\\assets\\images\\bg_4.png",
+      "PackagePath": "staticwebassets\\quize\\assets\\images\\bg_4.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\quize\\assets\\images\\checkmark.png",
+      "PackagePath": "staticwebassets\\quize\\assets\\images\\checkmark.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\quize\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\quize\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\quize\\assets\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\quize\\assets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\quize\\assets\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\quize\\assets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\Aptitute_test\\Aptitude_Test\\Aptitude_Test\\wwwroot\\quize\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\quize\\assets\\js\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Aptitude_Test.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Aptitude_Test.props",
+      "PackagePath": "build\\Aptitude_Test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Aptitude_Test.props",
+      "PackagePath": "buildMultiTargeting\\Aptitude_Test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Aptitude_Test.props",
+      "PackagePath": "buildTransitive\\Aptitude_Test.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

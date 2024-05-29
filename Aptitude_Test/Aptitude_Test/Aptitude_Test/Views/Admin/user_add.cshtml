@@ -1,0 +1,62 @@
+﻿@{
+
+    Layout = "_LayoutAdmin1";
+}
+@model Aptitude_Test.Models.User;
+
+<div class="content-wrapper">
+    <div class="page-header">
+        <h3 class="page-title"> Add User </h3>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="#">User</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Add User</li>
+            </ol>
+        </nav>
+    </div>
+    <div class="row">
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">User</h4>
+          
+            <form class="forms-sample" method="post" >
+                <div class="form-group">
+                    <label for="exampleInputName1">Name</label>
+                    <input type="text" asp-for="UserName" class="form-control" id="exampleInputName1" placeholder="Name">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputName1">Email</label>
+                    <input type="email" asp-for="UserEmail" class="form-control" id="exampleInputName1" placeholder="Email">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputName1">Password</label>
+                    <input type="password" asp-for="UserPassword" class="form-control" id="exampleInputName1" placeholder="Pass">
+                </div>
+                <div class="form-group">
+                    <label for="exampleSelectGender">Select Role</label>
+                            <select class="form-control" id="exampleSelectGender" asp-for="UserRoleId" asp-items="ViewBag.UserRoles">
+                       
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>File upload</label>
+                    <input type="file" name="img[]" class="file-upload-default">
+                    <div class="input-group col-xs-12">
+                        <input type="file" class="form-control file-upload-info" asp-for="UserImage"  placeholder="Upload Image">
+                        <span class="input-group-append">
+                            <button class="file-upload-browse btn btn-gradient-primary" type="button">Upload</button>
+                        </span>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-gradient-primary mr-2">Submit</button>
+            </form> 
+        </div>
+    </div>
+</div>
+
+
+
+    </div>
+</div>

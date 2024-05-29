@@ -1,0 +1,49 @@
+﻿@{
+    Layout = "_LayoutAdminRegister";
+    ViewData["Title"] = "Register";
+}
+@model Aptitude_Test.Models.User;
+<div class="container-scroller">
+    <div class="container-fluid page-body-wrapper full-page-wrapper">
+        <div class="content-wrapper d-flex align-items-center auth">
+            <div class="row flex-grow">
+                <div class="col-lg-4 mx-auto">
+                    <div class="auth-form-light text-left p-5">
+                        <div class="brand-logo">
+                            <img src="~/assets/images/logo.svg">
+                        </div>
+                        <h4>New here?</h4>
+                        <h6 class="font-weight-light">Signing up is easy. It only takes a few steps</h6>
+                         <form class="pt-3" method="post" asp-action="sign_up" asp-controller="Home">
+                            @* <div asp-validation-summary="ModelOnly"></div> *@
+                            <div class="form-group">
+                                <input type="text" asp-for="UserName" class="form-control form-control-lg" id="exampleInputUsername1" placeholder="UserName">
+@*                                 <span class="text-danger" style="margin:5px;font-size:13px; font-weight:600;" asp-validation-for="UserName"></span>
+ *@                            </div>
+                            <div class="form-group">
+                                <input type="email" asp-for="UserEmail" class="form-control form-control-lg" id="exampleInputEmail1" placeholder="Email">
+@*                                 <span class="text-danger" style="margin:5px;font-size:13px; font-weight:600;" asp-validation-for="UserEmail"></span>
+ *@                            </div>
+                           
+                            <div class="form-group">
+                                <input type="password" asp-for="UserPassword" class="form-control form-control-lg" id="exampleInputPassword1" placeholder="Password">
+@*                                 <span class="text-danger" style="margin:5px;font-size:13px; font-weight:600;" asp-validation-for="UserPassword"></span>
+ *@                            </div>
+                            
+                            <div class="mt-3">
+                                <button type="submit" class="btn btn-block btn-gradient-primary btn-lg font-weight-medium auth-form-btn" >SIGN UP</button>
+                            </div>
+                            <div class="text-center mt-4 font-weight-light">
+                                Already have an account? <a asp-action="login" asp-controller="Home" class="text-primary">Login</a>
+                            </div>
+                        </form> 
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- content-wrapper ends -->
+    </div>
+    <!-- page-body-wrapper ends -->
+</div>
+
+

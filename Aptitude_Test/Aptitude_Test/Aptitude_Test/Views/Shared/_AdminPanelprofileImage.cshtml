@@ -1,0 +1,35 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@using Aptitude_Test.Models;
+
+@{
+    string userName = HttpContextAccessor.HttpContext.User.Identity.Name;
+    string profilePicturePath = HttpContextAccessor.HttpContext.User.Claims.FirstOrDefault(c => c.Type == "UserImage")?.Value;
+    string finalpic = profilePicturePath != null ? profilePicturePath : "face1";
+}
+
+@if (!string.IsNullOrEmpty(userName))
+{
+    <li class="nav-item nav-profile">
+        <a href="#" class="nav-link">
+            <div class="nav-profile-image">
+                <img src="~/ContentImages/faces/@finalpic" alt="profile">
+                <span class="login-status online"></span> <!--change to offline or busy as needed-->
+            </div>
+            <div class="nav-profile-text d-flex flex-column">
+                <span class="font-weight-bold mb-2">@userName</span>
+                @if (HttpContextAccessor.HttpContext.User.IsInRole("Admin"))
+                {
+                    <text>Administrator</text>
+                }
+                else if (HttpContextAccessor.HttpContext.User.IsInRole("User"))
+                {
+                    <text>User</text>
+                }
+            </div>
+            <i class="mdi mdi-bookmark-check text-success nav-profile-badge"></i>
+        </a>
+    </li>
+
+    
+}
